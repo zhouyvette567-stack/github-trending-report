@@ -1,0 +1,16 @@
+{
+  "name": "ai-news-report",
+  "version": "1.0.0",
+  "description": "AI新闻锐评日报 - 机器之心RSS",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "review": "node scripts/generate-news-review.mjs",
+    "build": "node scripts/build-site.mjs",
+    "run": "node scripts/fetch-news.mjs && node scripts/generate-news-review.mjs && node scripts/build-site.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.0"
+  }
+}

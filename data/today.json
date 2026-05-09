@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-09",
+  "fetchedAt": "2026-05-09T12:00:00.000Z",
+  "source": "机器之心 RSS",
+  "sourceUrl": "https://www.jiqizhixin.com/",
+  "summary": "今日AI行业热点：OpenAI发布新功能，国内大模型竞争激烈！",
+  "news": [
+    {
+      "rank": 1,
+      "title": "OpenAI 发布 GPT-5 预览版，性能大幅提升",
+      "description": "OpenAI 今日发布 GPT-5 预览版，据称在推理能力和多模态处理上有重大突破...",
+      "link": "https://www.jiqizhixin.com/articles/2026-05-09-1",
+      "pubDate": "2026-05-09T08:00:00.000Z",
+      "source": "机器之心",
+      "review": "OpenAI 又来刷存在感了！GPT-5 预览版发布，号称推理能力大突破。但问题是，我们还没用上 GPT-4 的全部功能呢...【画饼大师】"
+    },
+    {
+      "rank": 2,
+      "title": "字节跳动发布豆包大模型 3.0，对标 GPT-4",
+      "description": "字节跳动今日正式发布豆包大模型 3.0，在中文理解和生成能力上表现优异...",
+      "link": "https://www.jiqizhixin.com/articles/2026-05-09-2",
+      "pubDate": "2026-05-09T09:30:00.000Z",
+      "source": "机器之心",
+      "review": "字节跳动加入大模型混战！豆包 3.0 对标 GPT-4，中文能力确实强。但国内大模型这么多，用户都选择困难了。【内卷现场】"
+    }
+  ]
+}
